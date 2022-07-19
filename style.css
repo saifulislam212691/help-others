@@ -160,3 +160,36 @@ body{
     border-radius: 5px;
     margin: 5px auto 0;  
 }
+
+/*--------  section no 5  --------*/
+
+.depand-on{
+    display: flex; 
+ }
+ 
+ .half-width{
+     width: 40%;
+     padding-left: 5%;
+     padding-top: 7%;
+ }
+ .half-width h2{
+     font-size:30px;   
+ }
+ .half-width img {
+     width:70% ;
+ }
+ 
+ .half-width p{
+     padding-bottom: 15px;   
+ }
+ 
+ .link-button{
+     text-decoration: none;
+     background-color: #ff5959;
+     padding: 10px 40px;
+     border-radius: 5px; 
+     color: white;
+     font-weight: 500;
+ }
+
+ 
