@@ -1,0 +1,32 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0;
+}
+/*--------  section no 1  --------*/
+.flood_image{
+    background: url(images/donation3.jpg) ;
+    background-size: cover;
+    height: 100vh;  
+    position: relative;
+}
+.flood_problem{
+    color: white;
+    position: absolute;
+   text-align: center;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+
+}
+.flood_problem h1 {
+    font-size:50px;
+
+}
+.flood_problem a {
+    text-decoration: none;
+    background-color:#ff5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
