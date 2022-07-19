@@ -226,3 +226,23 @@ input[type=submit] {
     border: none;
     padding: 6px;
   }
+
+   /*--------  section no 8  --------*/
+
+.humble{
+    background-color: #0b0d17;
+    color: #ff5959;
+    height: 50vh; 
+    padding-top: 55px;
+    position: relative;  
+}
+.humble h6{
+    color: #ccced4;
+}
+.gonna{
+    position: absolute;
+   text-align: center;
+   left: 50%;
+   bottom: 50%;
+   transform: translate(-50%, -50%); 
+}
