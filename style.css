@@ -192,4 +192,37 @@ body{
      font-weight: 500;
  }
 
- 
+ /*--------  section no 7  --------*/
+
+.update{
+    color: #000;
+    height: 50vh; 
+    position: relative;
+    margin-top: 200px;
+}
+.my-update{
+    position: absolute;
+   text-align: center;
+   top:0%;
+   left: 50%;
+   bottom: 50%;
+   transform: translate(-50%, -50%); 
+}
+.my-update h2{
+    font-size:30px;   
+}
+.container {
+    padding: 50px;
+    background-color: #fff4d6
+   
+}input[type=text] {
+    padding: 6px;
+   background-color: #d9d9d9;
+   border: none;
+}
+input[type=submit] {
+    background-color: #ff5959;
+    color: white;
+    border: none;
+    padding: 6px;
+  }
